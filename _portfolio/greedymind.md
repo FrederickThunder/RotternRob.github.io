@@ -7,7 +7,7 @@ tags: [Python, Flask, Scrapy, HTML, Javascript, PostgreSQL]
 ---
 
 <p align="center">
-![image]({{ site.baseurl }}/{{ page.img }})
+<img src="assets/img/portfolio/greedymind.png">
 </p>
 
 GreedyMind Project aims to develop reading skills and expand knowledge of users, especially for those who are learning English. 
